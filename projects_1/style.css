@@ -1,0 +1,33 @@
+.hero {
+    background-image: url('./public/water.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.hero{
+    color: white;
+}
+.word {
+    display: flex;
+    justify-content: center;
+}
+.hero h1{
+    color: white;
+}
+.hero p{
+    color: white;
+}
+.hero a{
+    color: white !important ;
+}
+.hero svg {
+    stroke: white;
+}
+.white-text {
+    color: white !important;
+}
+.name2{
+    font-size: 40px;
+}
